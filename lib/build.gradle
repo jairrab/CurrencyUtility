@@ -33,6 +33,7 @@ android {
     }
 
     compileOptions {
+        kotlinOptions.freeCompilerArgs += ['-module-name', "${group}.CurrencyUtility"]
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }

@@ -21,6 +21,10 @@ android {
         consumerProguardFiles "consumer-rules.pro"
     }
 
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+
     buildTypes {
         release {
             minifyEnabled false

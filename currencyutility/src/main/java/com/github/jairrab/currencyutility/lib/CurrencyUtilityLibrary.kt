@@ -1,13 +1,9 @@
 package com.github.jairrab.currencyutility.lib
 
+import com.github.jairrab.currencysymbols.CurrencySymbols
 import com.github.jairrab.currencyutility.CurrencyUtility
-import com.github.jairrab.currencyutility.lib.helpers.CryptoHelper
-import com.github.jairrab.currencyutility.lib.helpers.GetCurrencies
-import com.github.jairrab.currencyutility.lib.helpers.GetCurrencyName
-import com.github.jairrab.currencyutility.lib.helpers.GetCryptoRate
-import com.github.jairrab.currencyutility.lib.helpers.GetCurrencyRate
+import com.github.jairrab.currencyutility.lib.helpers.*
 import com.github.jairrab.currencyutility.model.CurrencyData
-import com.jairrab.github.currencysymbols.CurrencySymbols
 import java.util.*
 
 internal class CurrencyUtilityLibrary(

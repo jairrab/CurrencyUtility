@@ -31,6 +31,7 @@ object CryptoHelper {
             CurrencyData("BTS", "BitShares (Cryptocurrency)", "bitshares"),
             CurrencyData("CNX", "Cryptonex (Cryptocurrency)", "cryptonex"),
             CurrencyData("CVC", "Civic (Cryptocurrency)", "civic"),
+            CurrencyData("DAI", "DAI (Cryptocurrency)", "dai"),
             CurrencyData("DCR", "Decred (Cryptocurrency)", "decred"),
             CurrencyData("DGB", "DigiByte (Cryptocurrency)", "digibyte"),
             CurrencyData("DGD", "DigixDAO (Cryptocurrency)", "digixdao"),
